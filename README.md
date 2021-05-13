@@ -1,5 +1,8 @@
-# QOptimization
-This repository contains quantum variants of some of the discrete optimization models that I built via MiniZinc programs from my [Basic Modelling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling) course from Coursera by UMelbourne and CUHK. It makes use of the Qiskit Quantuam Optimization Module. The optimization models are for the following problems : 
-* Banquet Festival Problem
-* Prisoner Arrangment Problem
-* ...
+# QCryptography
+This repository contains solutions to **some** of the questions on the archived Quantum Cryptography course by Caltech and TUDelft on edX. It also has some of the circuits I wrote in Qiskit as part of experimentation that I did while completing this course. 
+
+### References 
+[1] [QuCryptoX](https://github.com/QuCryptoX)
+[2] [Qiskit Textbook](https://qiskit.org/textbook/ch-states/introduction.html)  
+[3] [Gates, States, and Circuits : Notes on the circuit model of quantum computation](http://threeplusone.com/gates)
+[4] John Preskill's [Course Notes from Caltech CS 219](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)  
