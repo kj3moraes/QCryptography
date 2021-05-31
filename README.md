@@ -5,4 +5,4 @@ This repository contains solutions to **some** of the questions on the [archived
 ### References 
 [1] [QuCryptoX](https://github.com/QuCryptoX)  
 [2] [Qiskit Textbook](https://qiskit.org/textbook/ch-states/introduction.html)    
-[3] [Gates, States, and Circuits : Notes on the circuit model of quantum computation](http://threeplusone.com/gates)    
+[3] Michael A. Nielsen and Isaac L. Chuang. 2011. _Quantum Computation and Quantum Information: 10th Anniversary Edition (10th. ed.)._ Cambridge University Press, USA.
